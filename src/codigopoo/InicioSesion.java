@@ -62,6 +62,6 @@ class InicioSesion extends JFrame implements ActionListener {
     }
 
     private boolean validarCredenciales(String usuario, String contrasena) {
-        return usuario.equals("Grupo5") && contrasena.equals("1234");
+        return usuario.equals("Grupo 8") && contrasena.equals("1234");
     }
 }
