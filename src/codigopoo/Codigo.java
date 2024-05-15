@@ -8,9 +8,9 @@ public class Codigo {
 }
 
 // Integrantes 
-//Fabrizio durand bendezu
-//Manuel mori gomez
-//Jefferson ventocilla campos
+//Fabrizio Durand Bendezu
+//Manuel Mori Gomez
+//Jefferson Ventocilla Campos
 //Jean Pieer Tapia Misayauri
 //Liesle Zamora Quispe
 //Jhon  Alexander Quispe Guardia
